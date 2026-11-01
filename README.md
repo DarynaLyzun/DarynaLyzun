@@ -134,25 +134,6 @@ A web application that helps users manage their personal wardrobe and receive cl
 </details>
 
 <details>
-<summary><b>E-commerce Data Analysis</b></summary>
-
-Academic project focused on processing and exploring a structured e-commerce dataset.
-
-| Category | Details |
-|:---|:---|
-| Language | Python |
-| Library | Pandas |
-| Dataset | 57,278 records |
-| Focus | Data cleaning and statistical analysis |
-
-**Key Activities**
-- Cleaned and processed 57,278 records.
-- Used Pandas for structured data manipulation.
-- Performed statistical analysis to explore the dataset.
-
-</details>
-
-<details>
 <summary><b>C++ University Projects</b></summary>
 
 A collection of university programming repositories demonstrating practical C++ coursework.
@@ -174,42 +155,7 @@ A collection of university programming repositories demonstrating practical C++ 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarynaLyzun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&ring_color=8B5CF6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarynaLyzun&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
-
-<br/>
-
 <img width="60%" src="https://streak-stats.demolab.com?user=DarynaLyzun&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DarynaLyzun&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarynaLyzun&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DarynaLyzun/DarynaLyzun/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
